@@ -16,11 +16,10 @@ android {
     buildToolsVersion '25.0.0'
 
     defaultConfig {
-<<<<<<< HEAD
         minSdkVersion 14
-=======
+
         minSdkVersion 11
->>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+
         targetSdkVersion 24
         versionCode 1
         versionName "1.0"
@@ -64,7 +63,7 @@ dependencies {
     compile 'com.android.support:design:24.2.0'
     // http library used for async calls
     compile 'com.loopj.android:android-async-http:1.4.9'
-<<<<<<< HEAD
+
     compile 'com.google.android.gms:play-services-vision:10.2.0'
 
     compile 'com.google.android.gms:play-services-analytics:10.2.0'
@@ -79,8 +78,7 @@ dependencies {
     // http library used for async calls
 
 }
-=======
+
    // compile project(":app-debug")
 
 }
->>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
