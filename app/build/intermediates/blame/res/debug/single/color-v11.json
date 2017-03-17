@@ -1,0 +1,19 @@
+[
+    {
+<<<<<<< HEAD
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+=======
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+    }
+]

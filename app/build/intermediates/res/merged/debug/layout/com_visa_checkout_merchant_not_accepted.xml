@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:id="@+id/com_visa_checkout_rl_card_not_accepted_main"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/com_visa_checkout_carousel_item_height_px"
+        android:layout_centerHorizontal="true">
+
+        <RelativeLayout
+            android:id="@+id/com_visa_checkout_rl_card_not_accepted"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/com_visa_checkout_carousel_item_height_px"
+            android:layout_centerHorizontal="true"
+            android:alpha="0.85"
+            android:background="@drawable/com_visa_checkout_rl_round_corners">
+
+            <ImageView
+                android:id="@+id/com_visa_checkout_iv_close"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:paddingTop="4dp"
+                android:paddingRight="4dp"
+                android:paddingLeft="10dp"
+                android:paddingBottom="10dp"
+                android:src="@drawable/com_visa_checkout_close"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/com_visa_checkout_tv_not_accepted"
+                style="@style/com_visa_checkout_card_not_accepted"
+                android:gravity="center_horizontal"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_centerInParent="true" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/com_visa_checkout_rl_not_available"
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+            android:layout_centerHorizontal="true"
+            android:alpha="0.85"
+            android:background="@drawable/com_visa_checkout_rl_bottom_round_corners"
+            android:layout_alignParentBottom="true">
+
+            <TextView
+                android:id="@+id/com_visa_checkout_tv_not_available"
+                style="@style/com_visa_checkout_card_not_accepted"
+                android:gravity="center_horizontal"
+                android:text="@string/com_visa_checkout_tv_not_available"
+                android:layout_centerInParent="true" />
+
+            <ImageView
+                android:id="@+id/com_visa_checkout_iv_open"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_alignParentRight="true"
+                android:paddingTop="10dp"
+                android:paddingRight="4dp"
+                android:paddingLeft="10dp"
+                android:paddingBottom="10dp"
+                android:src="@drawable/com_visa_checkout_open"
+                android:visibility="visible" />
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

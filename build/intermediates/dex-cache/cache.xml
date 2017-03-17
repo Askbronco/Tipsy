@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+<<<<<<< HEAD
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_151ddca39371bd44972cc9c1f61bbe051dfbecdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3204acf77ecaf584e14aaee642c28970efeca843">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-VisaCheckout-Android-SDK-4.3_5166c61d2d1966cfac2fa15c844cdcbfe82e10a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_145c245a96bf1b2d5f2841ad41e47091942881dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/libs/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/okio-1.6.0_dc7b861f02ada75812448eecd320a65c84753a30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/libs/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0_84e730a9f3df87d2ceabc4ab34b7ccb7b466ad3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_12f09da96118e1df482f643c8ce2800f5dbd148d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/card.io-5.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3fa9adf2238ba0a4160f56d69a3cc5a23f9a98b">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-card.io-5.3.0_15216e89d4f2c20045d492ed4c3ef689ca9fd05d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_383df2907a19afaa15e5f9e5eae70c68e0408f11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_11234d115321b7d4611f4816082167401568c190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_dc327032aee3e7c0d54210c1dd180f388c3d449a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_0310542253efab41a682d7365ea139ea2f846176.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/play-services-basement-8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-play-services-basement-8.1.0_5322121b1ec11a92333890fc75240d2917ca9e41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/libs/retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0_c2c94d13ecef79bfe8a3e20df004fbb03ba0cd65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.4.0_9aef7b9677bf4ff055feccbfbd55c9aba093d435.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_556165e38ee585ca10a5dc0c84f6114d3003a30f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_0ec76c61f6227a7a118e36108804d40100caf6f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_4e71f7ffd7f5183836073353ff9615c886cf60d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/play-services-analytics-8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-play-services-analytics-8.1.0_d9c1df80a4342fddbf2d3cb0e511551da75392e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_1c2b78b735c084a02672a649d44dfcb212991ca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/play-services-analytics-8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-play-services-analytics-8.1.0_785e88b22e5285381abb6d065bd8a4f6aa8a7b00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_73effc1d11f86ec8da466ca8413acd983dbb0154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_2577b20ff82a783c1ecd8cc206c673851d98021e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_4b47374fba2668b07bbb8e45acd1142e49571e2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0426b2400f7a36fd44018b838dfa800e8d26c329.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_9d192cc4ab14ebf36fc242f9f890042c48bd526e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_b21074a34102776e5a848f9fdb3f390f8dffa98b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/play-services-ads-8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-play-services-ads-8.1.0_fc8fb999599e50c869a2fde8427c554db78b82ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_17196df31b02b6893e9e2ed8a8b56d065d3e65a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_9ac3a97b61ef98dee98e5f621698758ccc6d7b69.jar" />
+=======
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_145c245a96bf1b2d5f2841ad41e47091942881dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8414f03ff9e5b045f185921c9bc42914c906458">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-facebook-android-sdk-3.23.1_e071939b7fd6bdb1652525df1f74a39cf3e66ef3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/libs/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/okio-1.6.0_dc7b861f02ada75812448eecd320a65c84753a30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/libs/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0_84e730a9f3df87d2ceabc4ab34b7ccb7b466ad3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/card.io-5.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3fa9adf2238ba0a4160f56d69a3cc5a23f9a98b">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-card.io-5.3.0_15216e89d4f2c20045d492ed4c3ef689ca9fd05d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_11234d115321b7d4611f4816082167401568c190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_dc327032aee3e7c0d54210c1dd180f388c3d449a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_0310542253efab41a682d7365ea139ea2f846176.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_ff3d0e2ee672c56922d620dd424bc250178a9a9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/play-services-basement-8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-play-services-basement-8.1.0_5322121b1ec11a92333890fc75240d2917ca9e41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3204acf77ecaf584e14aaee642c28970efeca843">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-VisaCheckout-Android-SDK-4.3_3d0964041dcac4b353dfd0b14e440250a1fde3ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/libs/retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0_c2c94d13ecef79bfe8a3e20df004fbb03ba0cd65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_556165e38ee585ca10a5dc0c84f6114d3003a30f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/libs/okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0_6bde237705fa3b877c7d24be3843dc2090d5eade.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_1c2b78b735c084a02672a649d44dfcb212991ca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/play-services-analytics-8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-play-services-analytics-8.1.0_785e88b22e5285381abb6d065bd8a4f6aa8a7b00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_73effc1d11f86ec8da466ca8413acd983dbb0154.jar" />
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+<<<<<<< HEAD
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/gson-2.3.1_b66fb8c9160f1508f542913bd34994cfb3ebfd2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_c6014d82b57f85bc7f94a8eaf9e99fa9b6794a75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_914092679f0f146e39557bf22267cb7c449166dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/libs/eventbus-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/eventbus-2.4.0_6fb9565fcde3f40db0257f330f6a3b1de6c6f31a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/libs/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_01ac4b902c10643e74b6c3a5ef5118a6f55d7be4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_17c10aaf81f67580cab3ad88099642b54489fb12.jar" />
+=======
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_d1ca0b8e6417000a578309ec149e8e5d64d0d7ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0426b2400f7a36fd44018b838dfa800e8d26c329.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_fdf46fea15892b39aa3504779992cc9bf2c17c74.jar" />
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/libs/Samsung-sdk-v1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+<<<<<<< HEAD
+        sha1="c8414f03ff9e5b045f185921c9bc42914c906458">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-facebook-android-sdk-3.23.1_e071939b7fd6bdb1652525df1f74a39cf3e66ef3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_c27254e845843ec1d0628fcf72aeedd0667ec51a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_332f09af11976fd3109736b8a00a79db0b82e81b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.4.0_8677782e91a2d6146ed6f8bb84ce49260ade0874.jar" />
+=======
+        sha1="e2ce3786b6e9519934c4a54aaaaf39525bf4486c">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/Samsung-sdk-v1.0.0_6ec2ddc9b5270cb1789450cf0b708dd5f7b3c3ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_9d192cc4ab14ebf36fc242f9f890042c48bd526e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/play-services-ads-8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-play-services-ads-8.1.0_fc8fb999599e50c869a2fde8427c554db78b82ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_fa3e0d56f31ee760852dd1d00a8833e52bc6f3dc.jar" />
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+<<<<<<< HEAD
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_ff3d0e2ee672c56922d620dd424bc250178a9a9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3204acf77ecaf584e14aaee642c28970efeca843">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-VisaCheckout-Android-SDK-4.3_3d0964041dcac4b353dfd0b14e440250a1fde3ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/card.io-5.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3fa9adf2238ba0a4160f56d69a3cc5a23f9a98b">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-card.io-5.3.0_f26f9b8ceae34510d3f2033c9b3ff712ac701bdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_0f907f228a787cf97f510103781730cf12465bc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8414f03ff9e5b045f185921c9bc42914c906458">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-facebook-android-sdk-3.23.1_a883cbff27fed8933b90d61494a7fc875d713c3c.jar" />
+=======
+        sha1="9ea8679e8961b2a9088bbfd9986fa5752f8d802b">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/Samsung-pass-v1.1.4_42c3d8f4352e8d6c30ecaf956c6812d49e592deb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_9ac3a97b61ef98dee98e5f621698758ccc6d7b69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/libs/gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/gson-2.3.1_b66fb8c9160f1508f542913bd34994cfb3ebfd2b.jar" />
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+<<<<<<< HEAD
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0_6bde237705fa3b877c7d24be3843dc2090d5eade.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_069f8cf0aa549153856ffce5862ffb389841ddce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_d1ca0b8e6417000a578309ec149e8e5d64d0d7ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_fdf46fea15892b39aa3504779992cc9bf2c17c74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/libs/Samsung-sdk-v1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2ce3786b6e9519934c4a54aaaaf39525bf4486c">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/Samsung-sdk-v1.0.0_6ec2ddc9b5270cb1789450cf0b708dd5f7b3c3ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_fa3e0d56f31ee760852dd1d00a8833e52bc6f3dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/libs/Samsung-pass-v1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ea8679e8961b2a9088bbfd9986fa5752f8d802b">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/Samsung-pass-v1.1.4_42c3d8f4352e8d6c30ecaf956c6812d49e592deb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_8078fb5ff83a89500f0be0267359873dce4fa3c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_203d84847879583a38d1c2a804689fc7af647648.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_46556983c1b37172baf251fd1eb90ee493b25dfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_4d2da57ea805c2b1f9dbbd6b3dbc5c1d6b68369a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_ee7575cc6d2cf50aeacf5a601fbeaad5382d642d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_8d10e652667241451eeb6d84c790e9680c5a351a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+=======
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_8078fb5ff83a89500f0be0267359873dce4fa3c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_46556983c1b37172baf251fd1eb90ee493b25dfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_c6014d82b57f85bc7f94a8eaf9e99fa9b6794a75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/libs/eventbus-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/eventbus-2.4.0_6fb9565fcde3f40db0257f330f6a3b1de6c6f31a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_8d10e652667241451eeb6d84c790e9680c5a351a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/libs/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_01ac4b902c10643e74b6c3a5ef5118a6f55d7be4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0ca017211902f30f6f74355b10419483851cd3c6.jar" />
+    </item>
+
+</items>

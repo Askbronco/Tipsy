@@ -1,0 +1,442 @@
+[
+    {
+        "outputFile": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 68,
+                    "endOffset": 175
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 68,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 180,
+                    "endColumn": 68,
+                    "endOffset": 244
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 68,
+                        "endOffset": 188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endColumn": 69,
+                    "endOffset": 314
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 69,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endColumn": 73,
+                    "endOffset": 388
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 73,
+                        "endOffset": 332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 75,
+                    "endOffset": 464
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 75,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 469,
+                    "endColumn": 58,
+                    "endOffset": 523
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 58,
+                        "endOffset": 467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 528,
+                    "endColumn": 70,
+                    "endOffset": 594
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 472,
+                        "endColumn": 70,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 599,
+                    "endColumn": 67,
+                    "endOffset": 662
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 543,
+                        "endColumn": 67,
+                        "endOffset": 606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 667,
+                    "endColumn": 59,
+                    "endOffset": 722
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 59,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 727,
+                    "endColumn": 69,
+                    "endOffset": 792
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 69,
+                        "endOffset": 180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 797,
+                    "endColumn": 70,
+                    "endOffset": 863
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 70,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 868,
+                    "endColumn": 71,
+                    "endOffset": 935
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 71,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 940,
+                    "endColumn": 57,
+                    "endOffset": 993
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 57,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 998,
+                    "endColumn": 57,
+                    "endOffset": 1051
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 57,
+                        "endOffset": 439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1056,
+                    "endColumn": 105,
+                    "endOffset": 1157
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 444,
+                        "endColumn": 105,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1162,
+                    "endColumn": 63,
+                    "endOffset": 1221
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 63,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1226,
+                    "endColumn": 62,
+                    "endOffset": 1284
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endColumn": 62,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1289,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1466
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 854
+                    }
+                }
+            }
+        ]
+    }
+]

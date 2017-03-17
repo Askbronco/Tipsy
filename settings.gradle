@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+include ':app', ':eventbus-2.4.0'
+=======
+include ':app'
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd

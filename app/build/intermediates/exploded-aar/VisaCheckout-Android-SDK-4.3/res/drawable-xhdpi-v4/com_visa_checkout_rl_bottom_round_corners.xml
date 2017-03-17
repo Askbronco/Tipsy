@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners
+        android:radius="1dp"
+        android:bottomLeftRadius="@dimen/com_visa_checkout_card_not_accepted_radius"
+        android:bottomRightRadius="@dimen/com_visa_checkout_card_not_accepted_radius"
+        android:topLeftRadius="0dp"
+        android:topRightRadius="0dp" />
+    <solid android:color="@color/com_visa_checkout_card_not_accepted_red"/>
+</shape>

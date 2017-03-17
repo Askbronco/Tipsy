@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/com_visa_checkout_forty_px">
+
+    <TextView
+        android:id="@+id/terms_and_conditions_msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/com_visa_checkout_twenty_px"
+        android:gravity="center"
+        android:text="@string/com_visa_checkout_cac_terms_n_conditions_message"
+        android:textSize="@dimen/com_visa_checkout_global_font_large" />
+    
+    <TextView
+        android:id="@+id/terms_and_conditions_pagination"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/terms_and_conditions_msg"
+        android:padding="@dimen/com_visa_checkout_twenty_four_px"
+        android:text="@string/com_visa_checkout_cac_terms_pagination_one"
+        android:textSize="@dimen/com_visa_checkout_global_font_large"
+        android:visibility="gone" />
+
+
+</RelativeLayout>

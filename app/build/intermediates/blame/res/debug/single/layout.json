@@ -1,0 +1,1027 @@
+[
+    {
+<<<<<<< HEAD
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_signup.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_signup.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_friendpickerfragment.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_friendpickerfragment.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_address_verification_no_suggestion.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_address_verification_no_suggestion.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_signin_step_up2.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_signin_step_up2.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_express_checkout_button.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_express_checkout_button.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_signin.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_signin.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_address_brazil.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_address_brazil.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_search_bar_layout.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_search_bar_layout.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_device_locked.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_device_locked.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_welcome_screen.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_welcome_screen.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_forgot_password_collect_otp_code.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_forgot_password_collect_otp_code.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_server_side_alert.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_server_side_alert.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_server_side_error.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_server_side_error.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_update_tc.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_update_tc.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_title_bar_stub.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_picker_title_bar_stub.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/activity_main_vxo.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/src/main/res/layout/activity_main_vxo.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_placepickerfragment_list_row.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_placepickerfragment_list_row.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_webview_fragment.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_webview_fragment.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_image.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_picker_image.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_activity_circle_row.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_picker_activity_circle_row.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_address_carousel_item.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_address_carousel_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_global_drop_down.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_global_drop_down.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_forgot_password_code_expired.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_forgot_password_code_expired.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/barcode_capture.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/src/main/res/layout/barcode_capture.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/activity_add_merchant_manually.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/src/main/res/layout/activity_add_merchant_manually.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_address_uk.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_address_uk.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_challenge_get_verification_code.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_challenge_get_verification_code.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/activity_payment_summary.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/src/main/res/layout/activity_payment_summary.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_checkbox.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_picker_checkbox.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_create_account.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_create_account.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_forgot_password_code_not_sent.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_forgot_password_code_not_sent.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_address_spain.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_address_spain.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/activity_main_exo.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/src/main/res/layout/activity_main_exo.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_3ds_webview_fragment.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_3ds_webview_fragment.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_address.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_address.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_sandbox_watermark.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_sandbox_watermark.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_answer_list_item.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_answer_list_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_cookie_policy.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_cookie_policy.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_list_section_header.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_picker_list_section_header.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_list_row.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_picker_list_row.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_address_suggestions.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_address_suggestions.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_activity_tablet.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_activity_tablet.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_layout_terms_privacy_lock_footer.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_layout_terms_privacy_lock_footer.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_placepickerfragment.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_placepickerfragment.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_signin_modal.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_signin_modal.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_address_nz.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_address_nz.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_address_poland.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_address_poland.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/activity_main_bar.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/src/main/res/layout/activity_main_bar.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_login_activity_layout.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_login_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_dialog_username_prefs.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_dialog_username_prefs.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_card_carousel_item.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_card_carousel_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_usersettingsfragment.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_usersettingsfragment.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_layout_terms_privacy_lock_footer_rc.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_layout_terms_privacy_lock_footer_rc.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_android_fp_dialog.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_android_fp_dialog.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_challenge_questions_list.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_challenge_questions_list.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_create_new_password.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_create_new_password.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_activity_mcom_main.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_activity_mcom_main.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_field_divider_line.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_field_divider_line.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_activity.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_activity.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_review_and_continue.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_review_and_continue.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_address_india.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_address_india.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_address_ireland.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_address_ireland.xml"
+=======
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_forgot_password_code_expired.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_forgot_password_code_expired.xml"
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_merchant_not_accepted.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_merchant_not_accepted.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_search_box.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_picker_search_box.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_address_autocomplete_list_item.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_address_autocomplete_list_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_title_bar.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_picker_title_bar.xml"
+=======
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_search_box.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_picker_search_box.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/support_simple_spinner_dropdown_item.xml"
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_media.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_address_france.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_address_france.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_challenge_single_question.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_challenge_single_question.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/activity_first_screen.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/src/main/res/layout/activity_first_screen.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_expanded_menu_layout.xml"
+=======
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_activity_tablet.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_activity_tablet.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_expanded_menu_layout.xml"
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_create_account_terms_dialog.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_create_account_terms_dialog.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_address_suggestion_item.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_address_suggestion_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/activity_list_drinks.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/src/main/res/layout/activity_list_drinks.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_payment_method.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_payment_method.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_forgot_password_collect_user_id.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_forgot_password_collect_user_id.xml"
+=======
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_image.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_picker_image.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_address.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_address.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/activity_main_exo.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/src/main/res/layout/activity_main_exo.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_android_fp_dialog.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_android_fp_dialog.xml"
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_media_action.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_challenge_type_index.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_challenge_type_index.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/activity_main_custom.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/src/main/res/layout/activity_main_custom.xml"
+=======
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_list_row.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_picker_list_row.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_update_tc.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_update_tc.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_3ds_webview_fragment.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_3ds_webview_fragment.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_merchant_not_accepted.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_merchant_not_accepted.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/activity_main_vxo.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/src/main/res/layout/activity_main_vxo.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_address_brazil.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_address_brazil.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/activity_first_screen.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/src/main/res/layout/activity_first_screen.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_layout_terms_privacy_lock_footer_rc.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_layout_terms_privacy_lock_footer_rc.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_login_activity_layout.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_login_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_forgot_password_code_not_sent.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_forgot_password_code_not_sent.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_checkbox.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_picker_checkbox.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_create_new_password.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_create_new_password.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_activity_mcom_main.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_activity_mcom_main.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_address_ireland.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_address_ireland.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_device_locked.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_device_locked.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_webview_fragment.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_webview_fragment.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_field_divider_line.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_field_divider_line.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_express_checkout_button.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_express_checkout_button.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_address_nz.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_address_nz.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_answer_list_item.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_answer_list_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_sandbox_watermark.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_sandbox_watermark.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_usersettingsfragment.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_usersettingsfragment.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_title_bar.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_picker_title_bar.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_forgot_password_collect_otp_code.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_forgot_password_collect_otp_code.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_review_and_continue.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_review_and_continue.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_challenge_questions_list.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_challenge_questions_list.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_dialog_username_prefs.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_dialog_username_prefs.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_friendpickerfragment.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_friendpickerfragment.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_server_side_error.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_server_side_error.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_signup.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_signup.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_address_india.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_address_india.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/activity_list_drinks.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/src/main/res/layout/activity_list_drinks.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_forgot_password_collect_user_id.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_forgot_password_collect_user_id.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_challenge_get_verification_code.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_challenge_get_verification_code.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_list_section_header.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_picker_list_section_header.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_signin_modal.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_signin_modal.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_create_account.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_create_account.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_address_poland.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_address_poland.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_layout_terms_privacy_lock_footer.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_layout_terms_privacy_lock_footer.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_signin.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_signin.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_address_uk.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_address_uk.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_address_suggestion_item.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_address_suggestion_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/activity_payment_summary.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/src/main/res/layout/activity_payment_summary.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/barcode_capture.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckoutSampleApp/app-debug/unspecified/res/layout/barcode_capture.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_signin_step_up2.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_signin_step_up2.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_address_france.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_address_france.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_server_side_alert.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_server_side_alert.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_address_spain.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_address_spain.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_activity.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_activity.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_card_carousel_item.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_card_carousel_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_global_drop_down.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_global_drop_down.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_address_carousel_item.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_address_carousel_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_address_suggestions.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_address_suggestions.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_welcome_screen.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_welcome_screen.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_cookie_policy.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_cookie_policy.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_placepickerfragment_list_row.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_placepickerfragment_list_row.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_address_verification_no_suggestion.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_address_verification_no_suggestion.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_challenge_type_index.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_challenge_type_index.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_address_autocomplete_list_item.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_address_autocomplete_list_item.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_activity_circle_row.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_picker_activity_circle_row.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/activity_add_merchant_manually.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/src/main/res/layout/activity_add_merchant_manually.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_fragment_add_payment_method.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_fragment_add_payment_method.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_visa_checkout_create_account_terms_dialog.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/layout/com_visa_checkout_create_account_terms_dialog.xml"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_title_bar_stub.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/layout/com_facebook_picker_title_bar_stub.xml"
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+    }
+]

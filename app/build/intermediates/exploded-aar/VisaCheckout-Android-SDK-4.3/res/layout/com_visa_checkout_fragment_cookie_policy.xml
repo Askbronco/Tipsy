@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/com_visa_checkout_cookie_policy_rl_main_container"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/com_visa_checkout_layout_background">
+
+    <include
+        android:id="@+id/com_visa_checkout_cookie_policy_includedServerSideError"
+        layout="@layout/com_visa_checkout_server_side_error"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <RelativeLayout
+        android:id="@+id/com_visa_checkout_cookie_policy_rl_bottom_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:paddingBottom="15dp"
+        android:background="@color/com_visa_checkout_vme_background">
+
+        <View
+            android:id="@+id/com_visa_checkout_cookie_policy_v_divider"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/com_visa_checkout_ten_px"
+            android:background="@drawable/com_visa_checkout_img_shadow" />
+
+            <Switch
+                android:id="@+id/com_visa_checkout_cookie_policy_switch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:switchPadding="1sp"
+                android:switchMinWidth="90dp"
+                android:checked="true"
+                android:showText="true"
+                android:textOff="     "
+                android:textOn="     "
+                android:text="@string/com_visa_checkout_cookies_preference_analytics"
+                android:textSize="@dimen/com_visa_checkout_fifty_px"
+                android:layout_marginLeft="@dimen/com_visa_checkout_layout_margin_left_right"
+                android:layout_marginTop="@dimen/com_visa_checkout_sixty_px"
+                android:layout_alignRight="@+id/com_visa_checkout_cookie_policy_v_divider2"
+                android:layout_alignEnd="@+id/com_visa_checkout_cookie_policy_v_divider2" />
+
+        <!--</RelativeLayout>-->
+
+        <View
+            android:id="@+id/com_visa_checkout_cookie_policy_v_divider2"
+            android:layout_width="fill_parent"
+            android:layout_marginTop="@dimen/com_visa_checkout_twenty_eight_px"
+            android:layout_below="@id/com_visa_checkout_cookie_policy_switch"
+            android:layout_marginLeft="@dimen/com_visa_checkout_layout_margin_left_right"
+            android:layout_marginRight="@dimen/com_visa_checkout_layout_margin_left_right"
+            android:layout_height="@dimen/com_visa_checkout_five_px"
+            android:background="@drawable/com_visa_checkout_img_shadow" />
+
+        <TextView
+            android:id="@+id/com_visa_checkout_cookie_policy_tv_footer_txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/com_visa_checkout_twenty_eight_px"
+            android:layout_below="@id/com_visa_checkout_cookie_policy_v_divider2"
+            android:layout_marginLeft="@dimen/com_visa_checkout_layout_margin_left_right"
+            android:layout_marginRight="@dimen/com_visa_checkout_layout_margin_left_right"
+            android:text="@string/com_visa_checkout_cookies_footer_text"
+            android:textColor="@color/com_visa_checkout_tv_title_color"
+            android:textSize="@dimen/com_visa_checkout_thirty_five_px" />
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/com_visa_checkout_rl_cookie_policy_webViewContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/com_visa_checkout_cookie_policy_rl_bottom_content"
+        android:layout_below="@id/com_visa_checkout_cookie_policy_includedServerSideError"
+        android:layout_marginTop="@dimen/com_visa_checkout_sixty_px"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

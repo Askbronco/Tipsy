@@ -1,0 +1,630 @@
+[
+    {
+<<<<<<< HEAD
+        "outputFile": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml",
+=======
+        "outputFile": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml",
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 111,
+                    "endOffset": 212
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 283,
+                        "endColumn": 107,
+                        "endOffset": 390
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 111,
+                        "endOffset": 436
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 185,
+                    "endOffset": 398
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 391,
+                        "endColumn": 185,
+                        "endOffset": 576
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 441,
+                        "endColumn": 185,
+                        "endOffset": 622
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 131,
+                    "endOffset": 530
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 577,
+                        "endColumn": 127,
+                        "endOffset": 704
+=======
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 627,
+                        "endColumn": 131,
+                        "endOffset": 754
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 535,
+<<<<<<< HEAD
+                    "endColumn": 116,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 705,
+                        "endColumn": 112,
+                        "endOffset": 817
+=======
+                    "endColumn": 127,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 759,
+                        "endColumn": 127,
+                        "endOffset": 882
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+<<<<<<< HEAD
+                    "startOffset": 652,
+                    "endColumn": 195,
+                    "endOffset": 843
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 818,
+                        "endColumn": 195,
+                        "endOffset": 1013
+=======
+                    "startOffset": 663,
+                    "endColumn": 200,
+                    "endOffset": 859
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 200,
+                        "endOffset": 1083
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+<<<<<<< HEAD
+                    "startOffset": 848,
+                    "endColumn": 126,
+                    "endOffset": 970
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 1014,
+                        "endColumn": 122,
+                        "endOffset": 1136
+=======
+                    "startOffset": 864,
+                    "endColumn": 205,
+                    "endOffset": 1065
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1088,
+                        "endColumn": 205,
+                        "endOffset": 1289
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+<<<<<<< HEAD
+                    "startOffset": 975,
+                    "endColumn": 126,
+                    "endOffset": 1097
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1137,
+                        "endColumn": 122,
+                        "endOffset": 1259
+=======
+                    "startOffset": 1070,
+                    "endColumn": 126,
+                    "endOffset": 1192
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1294,
+                        "endColumn": 126,
+                        "endOffset": 1416
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+<<<<<<< HEAD
+                    "startOffset": 1102,
+                    "endColumn": 198,
+                    "endOffset": 1296
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 198,
+                        "endOffset": 483
+=======
+                    "startOffset": 1197,
+                    "endColumn": 126,
+                    "endOffset": 1319
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1421,
+                        "endColumn": 126,
+                        "endOffset": 1543
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+<<<<<<< HEAD
+                    "startOffset": 1301,
+                    "endColumn": 207,
+                    "endOffset": 1504
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1260,
+                        "endColumn": 207,
+                        "endOffset": 1467
+=======
+                    "startOffset": 1324,
+                    "endColumn": 226,
+                    "endOffset": 1546
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 226,
+                        "endOffset": 553
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+<<<<<<< HEAD
+                    "startOffset": 1509,
+                    "endColumn": 109,
+                    "endOffset": 1614
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1468,
+                        "endColumn": 105,
+                        "endOffset": 1573
+=======
+                    "startOffset": 1551,
+                    "endColumn": 230,
+                    "endOffset": 1777
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1548,
+                        "endColumn": 230,
+                        "endOffset": 1774
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+<<<<<<< HEAD
+                    "startOffset": 1619,
+                    "endColumn": 183,
+                    "endOffset": 1798
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1574,
+                        "endColumn": 183,
+                        "endOffset": 1757
+=======
+                    "startOffset": 1782,
+                    "endColumn": 120,
+                    "endOffset": 1898
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1779,
+                        "endColumn": 120,
+                        "endOffset": 1895
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+<<<<<<< HEAD
+                    "startOffset": 1803,
+                    "endColumn": 129,
+                    "endOffset": 1928
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1758,
+                        "endColumn": 125,
+                        "endOffset": 1883
+=======
+                    "startOffset": 1903,
+                    "endColumn": 109,
+                    "endOffset": 2008
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1900,
+                        "endColumn": 109,
+                        "endOffset": 2005
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+<<<<<<< HEAD
+                    "startOffset": 1933,
+                    "endColumn": 209,
+                    "endOffset": 2138
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1884,
+                        "endColumn": 209,
+                        "endOffset": 2093
+=======
+                    "startOffset": 2013,
+                    "endColumn": 183,
+                    "endOffset": 2192
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2010,
+                        "endColumn": 183,
+                        "endOffset": 2189
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+<<<<<<< HEAD
+                    "startOffset": 2143,
+                    "endColumn": 188,
+                    "endOffset": 2327
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2094,
+                        "endColumn": 184,
+                        "endOffset": 2278
+=======
+                    "startOffset": 2197,
+                    "endColumn": 129,
+                    "endOffset": 2322
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2194,
+                        "endColumn": 129,
+                        "endOffset": 2319
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+<<<<<<< HEAD
+                    "startOffset": 2332,
+                    "endColumn": 93,
+                    "endOffset": 2421
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2279,
+                        "endColumn": 89,
+                        "endOffset": 2368
+=======
+                    "startOffset": 2327,
+                    "endColumn": 209,
+                    "endOffset": 2532
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2324,
+                        "endColumn": 209,
+                        "endOffset": 2529
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+<<<<<<< HEAD
+                    "startOffset": 2426,
+                    "endColumn": 97,
+                    "endOffset": 2519
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2369,
+                        "endColumn": 93,
+                        "endOffset": 2462
+=======
+                    "startOffset": 2537,
+                    "endColumn": 138,
+                    "endOffset": 2671
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2534,
+                        "endColumn": 138,
+                        "endOffset": 2668
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+<<<<<<< HEAD
+                    "startOffset": 2524,
+                    "endColumn": 110,
+                    "endOffset": 2630
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2463,
+                        "endColumn": 106,
+                        "endOffset": 2569
+=======
+                    "startOffset": 2676,
+                    "endColumn": 188,
+                    "endOffset": 2860
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2673,
+                        "endColumn": 188,
+                        "endOffset": 2857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2865,
+                    "endColumn": 93,
+                    "endOffset": 2954
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2862,
+                        "endColumn": 93,
+                        "endOffset": 2951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2959,
+                    "endColumn": 97,
+                    "endOffset": 3052
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2956,
+                        "endColumn": 97,
+                        "endOffset": 3049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3057,
+                    "endColumn": 110,
+                    "endOffset": 3163
+                },
+                "from": {
+                    "file": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-te/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3054,
+                        "endColumn": 110,
+                        "endOffset": 3160
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+                    }
+                }
+            }
+        ]
+    }
+]

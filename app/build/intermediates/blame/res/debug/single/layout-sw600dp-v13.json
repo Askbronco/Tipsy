@@ -1,0 +1,11 @@
+[
+    {
+<<<<<<< HEAD
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+=======
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+    }
+]

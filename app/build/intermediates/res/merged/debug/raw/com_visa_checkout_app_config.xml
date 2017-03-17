@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE properties SYSTEM
+    "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+    <!-- Country regulations applied TRUE or FALSE-->
+    <entry key="regulations_applied">true</entry>
+    <!-- If multiple Countries Use the delimiter :: Refer Country.java for terms or locale country codes-->
+    <entry key="regulated_countries">IN</entry>
+
+</properties>

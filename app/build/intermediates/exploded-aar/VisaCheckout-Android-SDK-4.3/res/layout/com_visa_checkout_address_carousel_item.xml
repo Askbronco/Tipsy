@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/com_visa_checkout_ll_address_carousel_address"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_centerHorizontal="true"
+        android:id="@+id/com_visa_checkout_ll_visa_address_carousel_item"
+        android:layout_width="@dimen/com_visa_checkout_carousel_item_width_px"
+        android:layout_height="@dimen/com_visa_checkout_carousel_item_height_px"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/com_visa_checkout_pl_forty_px"
+        android:background="@drawable/com_visa_checkout_carousel_bkgnd">
+
+        <RelativeLayout
+            android:id="@+id/com_visa_checkout_rl_wrapper"
+            android:layout_centerInParent="true"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/com_visa_checkout_tv_address_carousel_name"
+                style="@style/com_visa_checkout_AddressCarouselContent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/com_visa_checkout_tv_address_carousel_line1"
+                style="@style/com_visa_checkout_AddressCarouselContent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/com_visa_checkout_tv_address_carousel_name"
+                android:layout_centerHorizontal="true"
+                />
+
+            <TextView
+                android:id="@+id/com_visa_checkout_tv_address_carousel_line2"
+                style="@style/com_visa_checkout_AddressCarouselContent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/com_visa_checkout_tv_address_carousel_line1"
+                android:layout_centerHorizontal="true"
+                />
+
+            <TextView
+                android:id="@+id/com_visa_checkout_tv_address_carousel_line3"
+                style="@style/com_visa_checkout_AddressCarouselContent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/com_visa_checkout_tv_address_carousel_line2"
+                android:layout_centerHorizontal="true"
+                />
+
+            <TextView
+                android:id="@+id/com_visa_checkout_tv_address_carousel_citystatezip"
+                style="@style/com_visa_checkout_AddressCarouselContent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/com_visa_checkout_tv_address_carousel_line3"
+                android:layout_centerHorizontal="true"
+                />
+
+            <TextView
+                android:id="@+id/com_visa_checkout_tv_address_carousel_country"
+                style="@style/com_visa_checkout_AddressCarouselContent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/com_visa_checkout_tv_address_carousel_citystatezip"
+                android:layout_centerHorizontal="true"
+                />
+
+            <ImageView
+                android:id="@+id/com_visa_checkout_iv_add_new_address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="@drawable/com_visa_checkout_carousel_plus"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/com_visa_checkout_iv_add_new_address_left"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerInParent="true"
+                android:background="@drawable/com_visa_checkout_carousel_plus"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <include
+            android:layout_width="@dimen/com_visa_checkout_carousel_item_width_px"
+            android:layout_height="@dimen/com_visa_checkout_carousel_item_height_px"
+            layout="@layout/com_visa_checkout_merchant_not_accepted">
+        </include>
+
+    </RelativeLayout>
+
+</RelativeLayout>

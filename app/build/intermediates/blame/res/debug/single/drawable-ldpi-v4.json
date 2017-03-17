@@ -1,0 +1,235 @@
+[
+    {
+<<<<<<< HEAD
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_wht01.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_wht01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_blu02.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_blu02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_dis02.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_dis02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_fingerprint_success.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_fingerprint_success.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_blu01.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_blu01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_wht02.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_wht02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_dis01.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_dis01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_ca_dis01.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_ca_dis01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_dis01.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_dis01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_dis02.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_dis02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_wht01.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_wht01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_dis02.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_dis02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_wht02.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_wht02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_blu02.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_blu02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_blu01.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_blu01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_wht02.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_wht02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_dis02.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_dis02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_wht01.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_wht01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_dis01.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_dis01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_blu01.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_blu01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_blu02.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_blu02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_wht01.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_wht01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_facebook_close.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/drawable-ldpi-v4/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_fingerprint_error.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_fingerprint_error.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_blu02.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_blu02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_dis01.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_dis01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_blu01.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_blu01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_wht02.png",
+        "source": "/Users/rohitpitke/Desktop/newAndroid/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_wht02.png"
+=======
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_facebook_close.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/facebook-android-sdk-3.23.1/res/drawable-ldpi-v4/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_wht01.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_wht01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_blu01.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_blu01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_wht01.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_wht01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_dis01.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_dis01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_blu01.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_blu01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_blu02.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_blu02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_dis01.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_dis01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_blu01.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_blu01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_dis02.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_dis02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_wht01.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_wht01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_dis02.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_dis02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_wht02.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_wht02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_wht02.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_wht02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_fingerprint_success.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_fingerprint_success.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_blu02.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_blu02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_fingerprint_error.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_fingerprint_error.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_dis01.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_dis01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_blu02.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_blu02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_wht01.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_wht01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_blu01.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_large_49x31_blu01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_dis01.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_dis01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_ca_dis01.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_horizontal_99x34_ca_dis01.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_wht02.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_wht02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_wht02.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_wht02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_dis02.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_small_28x21_dis02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_dis02.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_dis02.png"
+    },
+    {
+        "merged": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_blu02.png",
+        "source": "/Users/rohitpitke/Desktop/Android/VisaCheckoutSampleApp/app/build/intermediates/exploded-aar/VisaCheckout-Android-SDK-4.3/res/drawable-ldpi-v4/com_visa_checkout_accept_vertical_medium_40x30_blu02.png"
+>>>>>>> 6a751608f7bebed5955ecaa055ab66641671b1bd
+    }
+]

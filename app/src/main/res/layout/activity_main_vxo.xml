@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/green"
+    android:layout_marginLeft="@dimen/activity_vertical_margin"
+    android:layout_marginRight="@dimen/activity_vertical_margin">
+
+    <!-- Visa Payment Button Integration -->
+    <com.visa.checkout.widget.VisaPaymentButton
+        android:id="@+id/visaCheckoutButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="17dp"
+        android:layout_marginRight="18dp"
+        android:layout_marginLeft="18dp"
+        custom:visaPaymentButtonWidth="@string/match_parent"
+        custom:visaPaymentButtonHeight="47"
+        android:onClick="checkoutWithVisa"
+        />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:layout_marginTop="124dp"
+        android:id="@+id/totalCost"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:text="Total Amount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/totalCost"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="50dp"
+        android:id="@+id/textView2"
+        android:textSize="30sp"
+        android:textColor="@color/com_visa_checkout_black"
+        android:fontFamily="cursive"
+        android:textStyle="normal|bold" />
+
+    <Button
+        android:text="Add tip(10%)"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button2"
+        android:onClick="addTen"
+        android:background="@android:color/black"
+        android:layout_below="@+id/totalCost"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="Add Tip (15%)"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="52dp"
+        android:id="@+id/button3"
+        android:onClick="addFifteen"
+        android:layout_below="@+id/button2"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/black"
+        android:elevation="7dp"
+        android:lineSpacingExtra="12sp" />
+
+</RelativeLayout>
